@@ -1,0 +1,6 @@
+pandas
+openpyxl
+pillow
+pyzbar
+opencv-python
+PyMuPDF
